@@ -62,12 +62,28 @@ Gosto de entender como as coisas funcionam além do necessário para simplesment
 
 ## Projetos
 
-### SoulUp • Ecopulse
+### Souly • Ecopulse
 
-Projeto desenvolvido para o Challenge da FIAP com foco na criação do **Souly**, um assistente inteligente integrado à experiência do aplicativo SoulUp.
-Acesse o projeto: ![Souly](https://github.com/Gabriel-Oliveira0611/Prototipo-Souly-EcoPulse)
+> Assistente virtual desenvolvido como solução para o Challenge da **SoulUp**, proposto pela FIAP.
 
-`React` `TypeScript` `UX/UI` `IA`
+O **Souly** foi criado para melhorar a experiência e o engajamento dos usuários dentro da plataforma SoulUp, oferecendo uma forma mais simples e interativa de acessar informações sobre **missões, pontos e eventos**.
+
+O projeto inclui um protótipo funcional que simula a experiência do aplicativo SoulUp com o Souly integrado à interface.
+
+**Principais funcionalidades:**
+
+- Interface inspirada no aplicativo SoulUp
+- Assistente virtual integrado à experiência do usuário
+- Interações relacionadas a pontos, missões e eventos
+- Navegação entre diferentes telas da aplicação
+- Desenvolvimento baseado em componentes reutilizáveis
+- Interface responsiva
+
+**Tecnologias utilizadas:**
+
+`React` `TypeScript` `Vite` `CSS` `UX/UI`
+
+[![Repositório](https://img.shields.io/badge/Repositório-GitHub-181717?style=flat&logo=github)](https://github.com/Gabriel-Oliveira0611/Prototipo-Souly-EcoPulse)
 
 ---
 
